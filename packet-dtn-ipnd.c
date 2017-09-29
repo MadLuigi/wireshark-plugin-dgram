@@ -7,7 +7,7 @@
 
 #include "packet-dtn-ipnd.h"
 
-#include <wireshark/config.h>
+#include "config.h"
 #if VERSION_MAJOR <= 1 && VERSION_MINOR >= 12
 #include <epan/wmem/wmem.h>
 #endif

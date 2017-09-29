@@ -6,7 +6,7 @@
  */
 #include "packet-dgram-udp.h"
 
-#include <wireshark/config.h>
+#include "config.h"
 #include <epan/packet.h>
 #include <glib.h>
 

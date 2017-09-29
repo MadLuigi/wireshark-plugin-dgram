@@ -5,7 +5,7 @@
  *      Author: Johannes Morgenroth <morgenroth@ibr.cs.tu-bs.de>
  */
 
-#include <wireshark/config.h>
+#include "config.h"
 #include <epan/packet.h>
 
 #ifndef PACKET_DTN_IPND_H_

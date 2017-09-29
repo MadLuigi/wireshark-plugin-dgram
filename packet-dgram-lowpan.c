@@ -6,7 +6,7 @@
  */
 #include "packet-dgram-lowpan.h"
 
-#include <wireshark/config.h>
+#include "config.h"
 #include <epan/packet.h>
 #include <glib.h>
 
